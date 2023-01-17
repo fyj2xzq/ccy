@@ -1,5 +1,5 @@
 {
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
+"spider":"https://raw.iqiq..io/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
 "sites": [   
 	{"key": "老鸭","name": "老鸭","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 	{"key": "乐鱼","name": "乐鱼","type": 1,"api": "https://www.leyuzyapi.com/inc/apijson_vod.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
