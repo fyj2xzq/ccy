@@ -1,8 +1,5 @@
 {
 //"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spider5.jar",
-"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider.jar",
-//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/customspider2.jar",
 "sites": [   
 	{"key": "老鸭","name": "老鸭","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 	{"key": "乐鱼","name": "乐鱼","type": 1,"api": "https://www.leyuzyapi.com/inc/apijson_vod.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
@@ -40,7 +37,8 @@
 	{"key":"*小处女资源","name":"*小处女资源","type":1,"api":"http://xcncaiji.com/home/cjapi/s6bb/mc10/vod/json","searchable":0,"quickSearch":0},
 	{"key":"*大MM资源","name":"*大MM资源","type":0,"api":"https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml","searchable":0,"quickSearch":0},
 	{"key":"*采集07资源","name":"*大MM资源","type":0,"api":"https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml","searchable":0,"quickSearch":0},
-	
+"lives": [
+{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=MTExLjY3LjE5Ni4xODEvbXR2L3poaWJvLnR4dA=="]}]}],
 #
 # 推送功能扩展（需v2.1.0.Beta6及以上版本）
 # 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
