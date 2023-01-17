@@ -1,5 +1,5 @@
 {
-//"spider":"https://raw.iqiq..io/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
+"spider":"https://agit.ai/ccy/v/raw/master/1.jar",
 "sites": [
     {"key": "老鸭", "name": "老鸭", "type": 1, "api": "https://api.apilyzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "*博天堂", "name": "*博天堂", "type": 0, "api": "http://bttcj.com/inc/sapi.php", "searchable": 0, "quickSearch": 0, "filterable": 0 },
@@ -37,11 +37,11 @@
     {"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0 }
 "lives": [
 {"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=MTExLjY3LjE5Ni4xODEvbXR2L3poaWJvLnR4dA=="]}]}],
-# //proxy://do=live&type=txt&ext= base64 编码后的地址
-# 推送功能扩展（需v2.1.0.Beta6及以上版本）
-# 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
-# 支持推送播放网盘链接
-# https://github.com/catvod/CatVodTVSpider
+///# //proxy://do=live&type=txt&ext= base64 编码后的地址
+//# 推送功能扩展（需v2.1.0.Beta6及以上版本）
+//# 需要在配置文件中，加入key为push_agent的站点，数据返回格式和普通爬虫一致
+//# 支持推送播放网盘链接
+//# https://github.com/catvod/CatVodTVSpider
 {"key":"push_agent","name":"推送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0}
 ],
 
@@ -49,7 +49,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-# type1 聚合.并发.轮询
+//# type1 聚合.并发.轮询
 
 {"name":"全站资源","type":1,"url":"https://yparse.jn1.cc/index.php?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
