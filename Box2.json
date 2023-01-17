@@ -75,7 +75,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=111.67.196.181/mtv/zhibo.txt"
+            "proxy://do=live&type=txt&ext=aHR0cDovLzExMS42Ny4xOTYuMTgxL210di96aGliby50eHQ="
           ]
         }
       ]
