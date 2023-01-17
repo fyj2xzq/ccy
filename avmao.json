@@ -1,6 +1,16 @@
 {
 "spider":"https://raw.iqiq..io/catvod/CatVodTVSpider/master/jar/custom_spider.jar",
-"sites": [   
+"sites": [
+	 {
+      "key": "push_agent",
+      "name": "推送",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "27b06d5221a24199b15f2e573d847430"
+    },
 	{"key": "老鸭","name": "老鸭","type": 1,"api": "https://api.apilyzy.com/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 	{"key": "乐鱼","name": "乐鱼","type": 1,"api": "https://www.leyuzyapi.com/inc/apijson_vod.php?ac=list","searchable": 1,"quickSearch": 1,"filterable": 0},
 	{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0},
