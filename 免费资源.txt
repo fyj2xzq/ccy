@@ -67,6 +67,9 @@ TVB云播,http://www.tvyb02.com/api.php/provide/vod/
 速影,https://速影128.xyz/inc/apijson.php
 卧龙资源,https://collect.wolongzyw.com/api.php/provide/vod/
 鱼乐资源,https://api.ylzy1.com/api.php/provide/vod/
+1080资源库,https://api.1080zyku.com/inc/api_mac10_all.php
+1080资源库,https://api.1080zyku.com/inc/api_mac10.php
+飞速资源,https://www.feisuzyapi.com/api.php/provide/vod/at/xml
 #18++
 小处女资源,http://xcncaiji.com/home/cjapi/s6bb/mc10/art/json
 99资源吧,http://99zyba.com/api.php/provide/vod/
