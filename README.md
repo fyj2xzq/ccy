@@ -13,7 +13,7 @@
 tv 里面的  也可以添加到TVbox 接口里只要把地址转换为Base64编码 后放到proxy://do=live&type=txt&ext=这里是Base64编码的地址
 
 ```JSON
-"lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NjeS92L3Jhdy9icmFuY2gvbWFzdGVyL3R2LzE4Ky50eHQ="] } ] } ], 
+"lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=这里是Base64编码的地址"] } ] } ], 
 ```
 
 
