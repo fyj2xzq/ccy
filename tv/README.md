@@ -1,4 +1,7 @@
 # TXT直播源
+
+这些地址可以用于 《tvbox》 《百川影音》 《DIYP影音》 《视米趣播》 《ZY-Player》 等。。。
+
 [https://agit.ai/ccy/v/raw/branch/master/tv/cn.txt](https://agit.ai/ccy/v/raw/branch/master/tv/cn.txt)
 
 [http://111.67.196.181/mtv/zhibo.txt](http://111.67.196.181/mtv/zhibo.txt)
@@ -21,7 +24,7 @@
 
 [https://github.com/lifeizq/zbtv/raw/master/zbylf.txt](https://github.com/lifeizq/zbtv/raw/master/zbylf.txt)
 
-###18+
+### 18+
 
 [https://agit.ai/ccy/v/raw/branch/master/tv/18+.txt](https://agit.ai/ccy/v/raw/branch/master/tv/18+.txt)
 
