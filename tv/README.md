@@ -2,8 +2,6 @@
 
 [http://111.67.196.181/mtv/zhibo.txt](http://111.67.196.181/mtv/zhibo.txt)
 
-[https://github.com/heroaku/TVboxo/raw/main/tv/bc.txt](https://github.com/heroaku/TVboxo/raw/main/tv/bc.txt)
-
 [https://raw.iqiq.io/heroaku/TVboxo/main/tv/bc.txt](https://raw.iqiq.io/heroaku/TVboxo/main/tv/bc.txt)
 
 [https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt](https://cdn.jsdelivr.net/gh/Cyril0563/lanjing_live@main/TVbox_Free/LIVE/Free/tvbox_live.txt)
