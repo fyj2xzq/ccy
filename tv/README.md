@@ -40,7 +40,7 @@
 
 [https://raw.iqiq.io/lyghgx/tv/main/tv/av3.txt](https://raw.iqiq.io/lyghgx/tv/main/tv/18.txt)
 
-
+[https://cdn.jsdelivr.net/gh//Cyril0563/lanjing_live@main/IPTV_FREE/%E7%88%B1%E5%B0%9A.txt](https://cdn.jsdelivr.net/gh//Cyril0563/lanjing_live@main/IPTV_FREE/%E7%88%B1%E5%B0%9A.txt)
 
 
 
