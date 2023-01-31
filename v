@@ -52,7 +52,7 @@
     {"key": "速影", "name": "🦋速影", "type": 1, "api": "https://xn--k5d-suyingtvcom-lc40a84t7o9i3urako0c.suyingok.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0 }
   ], 
-  "lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NjeS92L3Jhdy9icmFuY2gvbWFzdGVyL3R2LzE4Ky50eHQ="] } ] } ], 
+  "lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NjeS92L3Jhdy9icmFuY2gvbWFzdGVyL3R2L2NuLnR4dA=="] } ] } ], 
   "parses": [
     {"name": "解析聚合", "type": 3, "url": "Demo"},
     {"name": "Json并发", "type": 2, "url": "Parallel"},
