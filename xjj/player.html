@@ -40,7 +40,7 @@ var randomm = function() {
 player.src = 'http://v.nrzj.vip/video.php?_t=' + Math.random();
 player.play();
 }
-bind(get('next'), 'click', randomm);
+bind(get('next'), 'click', randomm); 
 bind(player, 'error', function() {
 randomm();
 });
