@@ -1,6 +1,6 @@
 {"sites": 
   [
-   {"key": "CK资源", "name": "CK资源", "type": 1, "api": "http://www.feifei67.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+   {"key": "CK资源", "name": "CK资源", "type": 1, "api": "http://www.feifei67.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "香瓜影视", "name": "香瓜影视", "type": 1, "api": "http://v.xgvod.top/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "百淘影视", "name": "百淘影视", "type": 1, "api": "http://ys.58g8.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "诺讯资源", "name": "诺讯资源", "type": 1, "api": "http://caiji.nxflv.com/api.php/provide/vod/at/xml", "searchable": 1, "quickSearch": 1, "filterable": 0 },
