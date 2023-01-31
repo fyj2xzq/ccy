@@ -2,6 +2,39 @@
  // "spider": "https://agit.ai/ccy/v/raw/master/1.jar",
   "sites": 
   [
+   {
+      "key": "PpTV",
+      "name": "📺PPTV(官)",
+      "type": 0,
+      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "categories": [
+        "综艺",
+        "动漫",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "科幻片",
+        "恐怖片",
+        "剧情片",
+        "战争片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "惊悚片",
+        "犯罪片",
+        "冒险片",
+        "悬疑片",
+        "动画片",
+        "武侠片",
+        "少儿",
+        "其他片"
+      ]
+    },
+
    {"key": "CK资源", "name": "CK资源", "type": 1, "api": "http://www.feifei67.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "香瓜影视", "name": "香瓜影视", "type": 1, "api": "http://v.xgvod.top/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "百淘影视", "name": "百淘影视", "type": 1, "api": "http://ys.58g8.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
