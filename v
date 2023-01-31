@@ -1,4 +1,5 @@
 {
+  //🔞 https://agit.ai/ccy/v/raw/branch/master/av
  // "spider": "https://agit.ai/ccy/v/raw/master/1.jar",
   "sites": 
   [
