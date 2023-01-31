@@ -31,7 +31,11 @@
   {"key": "*点点娱乐", "name": "*点点娱乐", "type": 0, "api": "https://xx55zyapi.com/home/cjapi/ascf/mc10/vod/xml", "searchable": 0, "quickSearch": 0, "filterable": 0 },
   {"key": "*大MM资源", "name": "*大MM资源", "type": 0, "api": "https://www.dmmapi.com/home/cjapi/asd2c7/mc10/vod/xml", "searchable": 0, "quickSearch": 0, "filterable": 0 },
   {"key": "*黄瓜TV资源站", "name": "*黄瓜TV资源站", "type": 0, "api": "https://www.caiji07.com/home/cjapi/cfcf/mc10/vod/xml", "searchable": 0, "quickSearch": 0, "filterable": 0 },
-  {"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+  {"key": "*91md", "name": "*91md", "type": 0, "api": "https://91md.me/api.php/provide/vod/from/mdm3u8/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+  {"key": "*影库资源", "name": "*影库资源", "type": 0, "api": "https://api.ykapi.net/api.php/provide/vod/from/ykm3u8", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+  {"key": "*美少女", "name": "*美少女", "type": 0, "api": "https://www.msnii.com/api/xml.php", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+  {"key": "*哥哥妹妹", "name": "*哥哥妹妹", "type": 0, "api": "http://www.ggmmzy.com:9999/inc/xml", "searchable": 0, "quickSearch": 0, "filterable": 0 },
+
   {"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0 } 
   ], 
   "lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NjeS92L3Jhdy9icmFuY2gvbWFzdGVyL3R2LzE4Ky50eHQ="] } ] } ], 
