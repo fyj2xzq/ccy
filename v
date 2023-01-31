@@ -1,26 +1,12 @@
 {
-  //🔞 https://agit.ai/ccy/v/raw/branch/master/av
+  //🔞老司机专属 https://agit.ai/ccy/v/raw/branch/master/av
  // "spider": "https://agit.ai/ccy/v/raw/master/1.jar",
   "sites": 
   [
-   {
-      "key": "PpTV",
-      "name": "📺PPTV(官)",
-      "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "youku",
-      "name": "👑优酷(官)",
-      "type": 0,
-      "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
+    {"key": "PpTV", "name": "📺PPTV(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0},
+
+   {"key": "PpTV", "name": "📺PPTV(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0},
+    {"key": "youku", "name": "👑优酷(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
    {"key": "天堂资源", "name": "🌶天堂资源", "type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
    {"key": "小鸟动漫", "name": "🐧小鸟动漫", "type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
   {"key":"csp_555","name":"5️⃣️555┃xBPQ","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://w.g9.pub:66/381203888/xBPQ/555%E7%94%B5%E5%BD%B1.json"},
