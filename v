@@ -4,6 +4,7 @@
   "sites": 
   [
     {"key": "PpTV", "name": "📺PPTV(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0},
+{"key":"555电影","name":"🍀555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/pickear/tbs/main/MeowXB/555电影.json"},
 
    {"key": "PpTV", "name": "📺PPTV(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "youku", "name": "👑优酷(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
