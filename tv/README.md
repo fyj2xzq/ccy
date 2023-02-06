@@ -26,6 +26,8 @@
 
 ### 18+
 
+[https://wds.ecsxs.com/223363.txt](https://wds.ecsxs.com/223363.txt)
+
 [https://agit.ai/ccy/v/raw/branch/master/tv/18+.txt](https://agit.ai/ccy/v/raw/branch/master/tv/18+.txt)
 
 [https://raw.iqiq.io/breadmyth/tv/main/live/18.txt](https://raw.iqiq.io/breadmyth/tv/main/live/18.txt)
