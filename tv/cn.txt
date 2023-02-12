@@ -721,4 +721,3 @@ CGTN,https://live.cgtn.com/1000/prog_index.m3u8?zyangd#http://39.135.138.58:1889
 CETV-1,http://111.59.63.32:9901/tsfile/live/1024_1.m3u8
 清华大学电视台,http://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-
