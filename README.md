@@ -57,7 +57,7 @@ https://agit.ai/ccy/v/raw/branch/master/m3u/文件名.m3u
 
 导入到 zy-player 即可
 ```
-https://agit.ai/ccy/v/raw/branch/master/zy-player/source.json
+https://agit.ai/ccy/v/raw/branch/master/zy-player/site.json
 
 ```
 
