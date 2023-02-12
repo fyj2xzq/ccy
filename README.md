@@ -2,7 +2,7 @@
 ### TVbox 
 
 ```
-https://agit.ai/ccy/v/raw/branch/master/av
+https://agit.ai/ccy/v/raw/branch/master/v
 
 https://raw.iqiq.io/x2798/codespaces-blank/9430b66f6f9cb380c178bb9f7af666ed15d4794b/yuan.json
 
@@ -27,9 +27,9 @@ https://raw.iqiq.io/wuheng18/cr/1feb05a480b494fd65444ffaa4508bc393ef6200/%E6%AC%
 这些地址可以用于 《tvbox》 《百川影音》 《DIYP影音》 《视米趣播》 《ZY-Player》 等。。。
 
 ```
-https://agit.ai/ccy/v/raw/branch/master/tv/18+.txt 
+https://agit.ai/ccy/v/raw/branch/master/tv/all 
 
-https://agit.ai/ccy/v/raw/branch/master/tv/yd.txt 移动线路
+https://agit.ai/ccy/v/raw/branch/master/tv/cn.txt
 
 ```
 
@@ -57,7 +57,7 @@ https://agit.ai/ccy/v/raw/branch/master/m3u/文件名.m3u
 
 导入到 zy-player 即可
 ```
-https://agit.ai/ccy/v/raw/branch/master/h-player/source.json
+https://agit.ai/ccy/v/raw/branch/master/zy-player/source.json
 
 ```
 
