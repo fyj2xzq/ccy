@@ -804,6 +804,13 @@ J2,https://p2.weizan.cn/1646497941/269664979080385265/live.m3u8
 儒释道经,https://live.ciguang.tv/live/hdtv.m3u8?auth_key=5216465889-0-0-701a98b03302233fc07fa2ee9e85d39b
 天映经典,http://gxfrg007.8800.org:8282/tsfile/live/1053_1.m3u8
 金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+凤凰资讯,http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
+凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8?zgangd
+凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+凤凰电影,http://111.59.189.40:8445/tsfile/live/1022_1.m3u8
+靖洋戏剧,http://www.336699.live:1935/blockfour/4gtv-4gtv045.stream/playlist.m3u8
+靖天国际台,http://www.336699.live:1935/blockfour/4gtv-4gtv063.stream/playlist.m3u8
+面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 🌰其他,#genre#
 CGTN,https://live.cgtn.com/1000/prog_index.m3u8
 CGTN,http://39.135.138.58:18890/ysten-businessmobile/live/cctvennews/1.m3u8
@@ -820,6 +827,24 @@ CETV-3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 ETV1,https://txycsbl.centv.cn/zb/0628cetv1.m3u8
 世界,#genre#
+韩国TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
+韩国KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+韩国국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+韩国머니투데이방송,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
+韩国머니투데이방송(备),http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
+Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+ABC News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
+DC Council Channel,http://video.oct.dc.gov/out/u/15_12.m3u8
+LTV Government,http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
+Big Life TV,https://biglife.sinclair.wurl.com/manifest/3000.m3u8
+NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+CAPITALTV,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+Persiana Cinema,http://51.210.199.15/hls/stream.m3u8
+Persiana Family,http://51.210.199.19/hls/stream.m3u8
+Persiana Junior,http://51.210.199.18/hls/stream.m3u8
+
 KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
 MTN,http://183.110.27.87/mtnlive/720/playlist.m3u8
 群马テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
