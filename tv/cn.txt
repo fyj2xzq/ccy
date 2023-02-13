@@ -547,6 +547,7 @@ CCTV17,http://baidu.live.cqccn.com/__cl/cg:live/__c/cctv17HD/__op/default/__f//i
 吉林卫视,https://live.v1.mk/api/ghyx.php?id=JiLinWeiShiHD_6000
 海南卫视,https://live.v1.mk/api/ghyx.php?id=LvYouWeiShiHD_6000
 🎞️NewTV,#genre#
+数字,#genre#
 黑莓电影,http://39.135.7.4:6610/000000001000/1000000004000019624/index.m3u8?Contentid=1000000004000019624&livemode=1&stbId=3&channel-id=ystenlive
 黑莓电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225718/index.m3u8
 峨眉电影,http://112.19.214.90:8883/tsfile/live/1004_1.m3u8
@@ -611,6 +612,36 @@ NewTV武搏世界,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/32212256
 NewTV炫舞未来,http://39.135.138.58:18890/PLTV/88888888/224/3221225707/index.m3u8
 NewTV炫舞未来,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225707/index.m3u8
 NewTV怡伴健康 4M1080,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225666/index.m3u8
+北京纪实[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225676/index.m3u8
+北京纪实[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
+超级电视剧[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225765/index.m3u8
+超级电视剧[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225625/index.m3u8
+超级电视剧[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225625/index.m3u8
+超级电影[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225623/index.m3u8
+超级电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225623/index.m3u8
+超级电影[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225623/index.m3u8
+超级电影[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225766/index.m3u8
+超级电影[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225766/index.m3u8
+超级电影[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225766/index.m3u8
+超级电影[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225623/index.m3u8
+超级综艺[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225768/index.m3u8
+超级综艺[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225768/index.m3u8
+超级综艺[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225620/index.m3u8
+超级综艺[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225620/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225749/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225653/index.m3u8
+黑莓电竞[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225750/index.m3u8
+黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225718/index.m3u8
+黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
+黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+黑莓电影[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
+黑莓动画[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225672/index.m3u8
+清华大学[1920*1080],https://live.cic.tsinghua.edu.cn/hls/tsinghuatv.m3u8
+新华英文[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
+新华英文[1280*720],http://39.135.138.58:18890/PLTV/88888888/224/3221225693/index.m3u8
+新华中文[1280*720],http://39.135.138.58:18890/PLTV/88888888/224/3221225694/index.m3u8
+新华中文[1280*720],http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+NewTV超级体育[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225767/index.m3u8
 📺8M专区,#genre#
 CCTV1 8M,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV2 8M,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
@@ -788,3 +819,21 @@ CETV-2,http://txycetvbl.centv.cn/cetv2/2020tsytk.m3u8
 CETV-3,http://txycetvbl.centv.cn/cetv3/bjdm.m3u8
 CETV-4,http://txycetvbl.centv.cn/cetv4/zjpd.m3u8
 ETV1,https://txycsbl.centv.cn/zb/0628cetv1.m3u8
+世界,#genre#
+KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+MTN,http://183.110.27.87/mtnlive/720/playlist.m3u8
+群马テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
+MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
+ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
+半岛电视,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
+半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+新马Ⅰ亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+印尼_TVRIKanal3,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
+BloombergTV+2,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
