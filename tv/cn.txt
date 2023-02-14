@@ -722,6 +722,8 @@ CCTV-4K,https://live.v1.mk/api/bestv.php?id=cctv4k/15000000
 法治天地 8M,https://live.v1.mk/api/bestv.php?id=fztd8m/8000000
 魅力足球 8M,https://live.v1.mk/api/bestv.php?id=mlyyhd8m/8000000
 🌈4K8K,#genre#
+连续剧4K,http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
+李子柒4K,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 欢笑剧场4KHLG小果源,http://159.75.85.63:5681/sxg.php?id=hxjc-4k_8000
 CCTV4K-25P-HLG源,http://159.75.85.63:5679/cctv4k.php
@@ -739,6 +741,7 @@ CCTV16-4K-50P-HLG小果源,http://159.75.85.63:5681/sxg.php?id=CCTV-16-4K_8000
 纯享4K,http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
 4K超高清,http://liveop.cctv.cn/hls/4KHD/playlist.m3u8?zzhongd
 影院4k,http://epg.112114.xyz/douyu/9249162
+Clarity4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 电影,#genre#
 经典功夫台,https://cn-hbyc2-dx-live-01.bilivideo.com/live-bvc/545768/live_179302204_68184269.m3u8
 CHC动作电影,http://125.40.191.58:9901/tsfile/live/1002_1.m3u8
