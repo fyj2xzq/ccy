@@ -46,9 +46,8 @@
     {"key": "1080资源库", "name": "1080资源库", "type": 1, "api": "https://api.1080zyku.com/inc/api_mac10.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "步步高资源", "name": "🥪步步高资源", "type": 1, "api": "https://api.yparse.com/api/json", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "速影", "name": "🦋速影", "type": 1, "api": "https://xn--k5d-suyingtvcom-lc40a84t7o9i3urako0c.suyingok.com/inc/apijson.php", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-    {"key": "PpTV", "name": "📺PPTV(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"555电影","name":"🍀555影视","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.iqiq.io/pickear/tbs/main/MeowXB/555电影.json"},
-   {"key": "PpTV", "name": "📺PPTV(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0}
+   {"key": "PpTV", "name": "📺PPTV(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/pptv/at/xml/","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0 }
   ], 
   "lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NjeS92L3Jhdy9icmFuY2gvbWFzdGVyL3R2L2NuLnR4dA=="] } ] } ], 
