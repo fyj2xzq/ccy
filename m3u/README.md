@@ -12,25 +12,6 @@ https://agit.ai/ccy/v/raw/branch/master/m3u/文件名.m3u
 
 [https://cdn.jsdelivr.net/gh/iptv-org/iptv@master/channels/hk.m3u](https://cdn.jsdelivr.net/gh/iptv-org/iptv@master/channels/hk.m3u)
 
-[https://iptv-org.github.io/iptv/categories/xxx.m3u](https://iptv-org.github.io/iptv/categories/xxx.m3u)   xxx
-
-[https://iptv-org.github.io/iptv/categories/movies.m3u](https://iptv-org.github.io/iptv/categories/movies.m3u)
-
-[https://iptv-org.github.io/iptv/countries/cn.m3u](https://iptv-org.github.io/iptv/countries/cn.m3u)
-
-[https://iptv-org.github.io/iptv/languages/zho.m3u](https://iptv-org.github.io/iptv/languages/zho.m3u)
-
-[https://iptv-org.github.io/iptv/languages/cmn.m3u](https://iptv-org.github.io/iptv/languages/cmn.m3u)
-
-[https://iptv-org.github.io/iptv/countries/jp.m3u](https://iptv-org.github.io/iptv/countries/jp.m3u)
-
-[https://iptv-org.github.io/iptv/languages/jpn.m3u](https://iptv-org.github.io/iptv/languages/jpn.m3u)
-
-[https://iptv-org.github.io/iptv/languages/kor.m3u](https://iptv-org.github.io/iptv/languages/kor.m3u)
-
-[https://iptv-org.github.io/iptv/countries/hk.m3u](https://iptv-org.github.io/iptv/countries/hk.m3u)
-
-[https://iptv-org.github.io/iptv/countries/tw.m3u](https://iptv-org.github.io/iptv/countries/tw.m3u)
 
 ### epg 节目列表和台标logo
 
