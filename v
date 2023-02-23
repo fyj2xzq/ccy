@@ -1,6 +1,7 @@
 {
   //🔞老司机专属 https://agit.ai/ccy/v/raw/branch/master/av
  // "spider": "https://agit.ai/ccy/v/raw/master/1.jar",
+ "spider":"https://raw.iqiq.io/pickear/tbs/main/spider/custom_spider22091401.jar;md5;88edf8de10f957592b3b67a136682597",
   "sites": 
   [{"key": "天堂资源", "name": "🌶天堂资源", "type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "诺讯资源", "name": "🍱诺讯资源", "type": 1, "api": "http://caiji.nxflv.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
