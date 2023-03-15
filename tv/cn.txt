@@ -2294,8 +2294,6 @@ TVBS亞洲,http://line.premiumpowers.net:80/Manuel/1234567/941621
 ELTV生活英語台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-longturn20
 采昌影劇台,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-4gtv049
 采昌影劇台,http://www.336699.live:1935/blockfour/4gtv-4gtv049.stream/playlist.m3u8
-VOA美國之音,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=litv-ftv03
-DW德國之聲,https://stream.naihe.cf/api/v2/channel3.m3u8?hd=1080&fid=4gtv-live071
 幸福空間居家台,https://git.io/JgYYF
 幸福空間居家台,http://7ndbctwnjoha.movieyo.net:56421/live.m3u8?c=838
 The K-POP,https://git.io/JgYAE
@@ -2856,66 +2854,6 @@ ViuTV6,http://198.16.64.10:8278/viusix_twn/playlist.m3u8?tid=MC6C141237661412376
 澳門蓮花,http://120.84.96.196:808/hls/24/index.m3u8
 澳門蓮花,http://120.84.96.233:808/hls/24/index.m3u8
 澳視體育,http://61.244.22.5/ch4/sport_ch4.live/index.m3u8
-外語新聞,#genre#
-ABC News,http://198.16.64.10:8278/abcnews_glo/playlist.m3u8?tid=MAEA6759929367599293&ct=19225&tsum=edd59704e2182262583ea5b0e1093b9d
-ANN News,http://tv.redrainl.site:9500/live.m3u8?c=29
-BBC 1,http://198.16.64.10:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
-BBC 2,http://198.16.64.10:8278/bbc2_antik/playlist.m3u8?tid=MA6A4519490645194906&ct=19225&tsum=9b7ac03eed5276fa8bda87e0e8e64ed1
-BBC America,https://uni8rtmp.tulix.tv/cfntv/cfntv/playlist.m3u8
-BBC WORLD NEWS,http://198.16.64.10:8278/bbcnews_twn/playlist.m3u8?tid=ME2E9411781394117813&ct=19225&tsum=ffaa2caa60183eec89d730ed80b336d1
-BBC WORLD NEWS,http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
-BBC WORLD NEWS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418112
-Bloomberg News,http://218.32.47.179:8551/http/192.168.1.9:8078/hls/43/80/bloomber.m3u8
-Bloomberg News,http://tv.redrainl.site:9500/live.m3u8?c=14
-CBC News,https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxcbcnews/CDN/playlist.m3u8
-CBN News,https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/734546207001/playlist.m3u8
-CBS News,http://198.16.64.10:8278/cbsn_glo/playlist.m3u8?tid=ME2E7003518970035189&ct=19225&tsum=c1cc67ff59df6d6f608a400760be0bda
-CNA亞洲新聞 International,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-CNA亞洲新聞 Singapore(,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNA亞洲新聞,http://198.16.64.10:8278/cna/playlist.m3u8?tid=MFAF1272681512726815&ct=19225&tsum=4d6a781648283b1bb018bc5c098432d0
-CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
-CNA亞洲新聞,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8?zshijd
-CNA亞洲新聞,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA亞洲新聞,http://tv.redrainl.site:9500/live.m3u8?c=38
-CNBC,http://198.16.64.10:8278/cnbc_twn/playlist.m3u8?tid=MA5A9732497897324978&ct=19225&tsum=268e38e98d745f914c001c83d98b4b60
-CNBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418115
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8?zshijd
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8?zshijd
-CNN International,http://198.16.64.10:8278/cnn_antik/playlist.m3u8?tid=MDDD5459459654594596&ct=19225&tsum=6755808cb6aeb34e391b5c7ab695342a
-CNN,http://ip2121.com:8081/live/cnn/playlist.m3u8
-CNN,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418435
-CNN,http://198.16.64.10:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
-DW 德國之聲,https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-Euronews,http://198.16.64.10:8278/euronews_antik/playlist.m3u8?tid=MF2F8095655880956558&ct=19225&tsum=30c549f4730e3d83725a443cf0c16bbe
-Euronews,https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
-Euronews,https://euronews.alteox.app/hls/en_stream.m3u8
-Fox News,http://198.16.64.10:8278/foxnews_twn/playlist.m3u8?tid=MC6C3693629036936290&ct=19225&tsum=f5a714cff126a87d446c0613d9e80e14
-Fox News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-France 24,http://198.16.64.10:8278/france24_twn/playlist.m3u8?tid=MD8D3999259739992597&ct=19225&tsum=f842be32f837e71c7df73d173c6705b1
-France 24,http://static.france24.com:80/live/F24_FR_HI_HLS/live_tv.m3u8
-France 24,http://tv.redrainl.site:9500/live.m3u8?c=13
-France 24,https://static.france24.com/live/F24_FR_HI_HLS/live_tv.m3u8
-NEWS,http://tv.redrainl.site:9500/live.m3u8?c=41
-NBC News Now,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/master.m3u8
-NBC NEWS,https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-News max,http://nmxlive.akamaized.net/hls/live/529965/Live_1/index_720.m3u8
-NHK World,http://218.32.47.179:8552/http/192.168.1.9:8081/hls/62/804/ch06.m3u8
-NHK World,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8?zshijd
-NHK,http://123.51.229.65:18525/.m3u8
-RT News,https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
-TRT World,http://tv.redrainl.site:9500/live.m3u8?c=35
-VOA,https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
-半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-半島電視台,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
-ABC NEWS LIVE,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418139
-ABC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/376410
-CBS,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/424635
-CW,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/419893
-FOX NEWS CHANNEL,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/488004
-MSNBC,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/418123
-NBC NEWS NOW,http://abc123.digital:8080/Deacon68/uFHfwNRuHH/405946
-BBC 地球,http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0
-TBN Asia,http://210.210.155.35/qwr9ew/s/s39/01.m3u8
 海外衛視,#genre#
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 東森美洲,http://38.64.72.148:80/hls/modn/list/2015/chunklist1.m3u8
@@ -3139,41 +3077,6 @@ BBC CBEEBIES,http://line.premiumpowers.net:80/Manuel/1234567/941672
 CARTOON NETWORK,http://line.premiumpowers.net:80/Manuel/1234567/941673
 DREAMWORK,http://line.premiumpowers.net:80/Manuel/1234567/941656
 ZOOMOO,https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-世界,#genre#
-韩国TBS,http://58.234.158.60:1935/catvlive/myStream/playlist.m3u8
-韩国KBC SBS,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-韩国국악방송,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-韩国머니투데이방송,http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
-韩国머니투데이방송(备),http://183.110.27.87/mtnlive/definst/720/chunklist.m3u8
-Da Nang TV2,http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
-CNN,https://tve-live-lln.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
-ABC News,http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/chunklist_b1300000.m3u8
-DC Council Channel,http://video.oct.dc.gov/out/u/15_12.m3u8
-LTV Government,http://gov.leominster.tv/Gov/smil:Gov.smil/chunklist_w1957429215_b1344100_sleng_t64NzIwcA==.m3u8?fluxustv.m3u8
-Big Life TV,https://biglife.sinclair.wurl.com/manifest/3000.m3u8
-NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-NASA Media Channel,https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
-CAPITALTV,http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
-Persiana Cinema,http://51.210.199.15/hls/stream.m3u8
-Persiana Family,http://51.210.199.19/hls/stream.m3u8
-Persiana Junior,http://51.210.199.18/hls/stream.m3u8
-KBS World,https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
-MTN,http://183.110.27.87/mtnlive/720/playlist.m3u8
-群马テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/chunklist_b1800000.m3u8
-MX Live,https://movie.mcas.jp/mcas/mx_live_2/master.m3u8
-Tokyo MX 1,https://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
-Tokyo MX 2,https://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
-WeatherNews,https://movie.mcas.jp/mcas/smil:wn1.smil/chunklist_b1800000.m3u8
-ウェザーニュース,https://movie.mcas.jp/mcas/wn1_2/master.m3u8
-半岛电视,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
-半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-新马Ⅰ亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-印尼_TVRIKanal3,http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI3)/Stream(03)/index.m3u8
-BloombergTV+2,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
-CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
 虎牙,#genre#
 周星驰影院,http://124.222.238.146:1125/m3u8.php?/migu/623338112/playlist.m3u8
 华语经典,http://maomao.kandiantv.cn/douyu1.php?id=434971
