@@ -3,15 +3,15 @@
  // "spider": "https://agit.ai/ccy/v/raw/master/1.jar",
  "spider":"https://raw.iqiq.io/pickear/tbs/main/spider/custom_spider22091401.jar;md5;88edf8de10f957592b3b67a136682597",
   "sites": 
-  [{"key": "天堂资源", "name": "🌶天堂资源", "type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-    {"key": "诺讯资源", "name": "🍱诺讯资源", "type": 1, "api": "http://caiji.nxflv.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-
+  [
     {"key": "忆梦", "name": "💎忆梦", "type": 1, "api": "http://anltv.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+    {"key": "诺讯资源", "name": "🍱诺讯资源", "type": 1, "api": "http://caiji.nxflv.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+    {"key": "快播资源", "name": "🍈快播资源", "type": 1, "api": "http://www.kuaibozy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+
     {"key": "闪电资源", "name": "🐶闪电资源", "type": 1, "api": "http://sdzyapi.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "创艺影视", "name": "🍚创艺影视", "type": 1, "api": "https://www.30dian.cn/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "南国影源", "name": "🥫南国影源", "type": 1, "api": "http://api.nguonphim.tv/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "天堂资源", "name": "🌑天堂资源", "type": 1, "api": "http://vipmv.cc/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
-    {"key": "快播资源", "name": "🍈快播资源", "type": 1, "api": "http://www.kuaibozy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "酷点资源", "name": "👝酷点资源", "type": 1, "api": "https://kudianzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "无尽资源", "name": "🦔无尽资源", "type": 1, "api": "https://api.wujinapi.me/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
     {"key": "影图", "name": "🌟影图", "type": 1, "api": "https://cj.vodimg.top/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
@@ -44,7 +44,7 @@
    {"key": "youku", "name": "👑优酷(官)", "type": 0, "api": "https://www.zycaiji.net:7788/api.php/provide/vod/from/youku/at/xml/", "searchable": 0, "quickSearch": 0, "filterable": 0 },
     {"key": "push_agent", "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0, "quickSearch": 0, "filterable": 0 }
   ], 
-  "lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL2NjeS92L3Jhdy9icmFuY2gvbWFzdGVyL3R2L2NuLnR4dA=="] } ] } ], 
+  "lives": [{"group": "redirect", "channels": [{"name": "channels", "urls": ["proxy://do=live&type=txt&ext=https://agit.ai/ccy/v/raw/branch/master/tv/cn.txt"] } ] } ], 
   "parses": [
     {"name": "解析聚合", "type": 3, "url": "Demo"},
     {"name": "Json并发", "type": 2, "url": "Parallel"},
